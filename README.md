@@ -1,16 +1,29 @@
-## Hi there 👋
+class Yaashica:
+    name        = "Yaashica Sakthivel"
+    location    = "Chennai, Tamil Nadu, India"
+    degree      = "B.E. Electronics & Communication Engineering (2026)"
+    college     = "Sri Sairam Engineering College"
+    cgpa        = 8.45
 
-<!--
-**yaashica/yaashica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    stack = [
+        "Verilog", "SystemVerilog", "RTL Design",
+        "Python", "SQL", "C (Basics)",
+        "Antenna Designing", "AI/ML"
+    ]
 
-Here are some ideas to get you started:
+    currentlyLearning = [
+        "Advanced VLSI Design",
+        "FPGA Programming",
+        "Satellite Communication Systems",
+        "5G/6G Network Architecture"
+    ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    leadership = {
+        "IEEE AESS Chair":      "2025 – Present",
+        "IEEE AESS Vice Chair": "2024 – 2025"
+    }
+
+    funFact = "I built a CanSat payload and won a USD 10,000 IEEE scholarship! 🛰️"
+
+    def motto(self):
+        return "Design circuits. Reach the stars. 🚀"
