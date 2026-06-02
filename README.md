@@ -12,8 +12,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yaashica&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
-  <a href="mailto:yaashica2004@gmail.com"><img src="https://img.shields.io/badge/Email-yaashica2004%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yaashicasakthivel-a03740257/"><img src="https://img.shields.io/badge/LinkedIn-Yaashica_Sakthivel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yaashica2004@gmail.com"><img src="https://img.shields.io/badge/Email-yaashicasakthivel%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yaashica-sakthivel-a03740257/"><img src="https://img.shields.io/badge/LinkedIn-Yaashica_Sakthivel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/yaashica"><img src="https://img.shields.io/badge/GitHub-yaashica-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
